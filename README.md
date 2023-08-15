@@ -16,4 +16,4 @@ chmod +x git_push.sh
 
 3. Now that you've set the permissions, you can use the bash script from your current working directory. Open your terminal and type: ~/scripts/git_push.sh
 
-## By using this script, you can save time and effort by automating the process of committing files to your GitHub repository. Happy coding!
+#### By using this script, you can save time and effort by automating the process of committing files to your GitHub repository. Happy coding!
