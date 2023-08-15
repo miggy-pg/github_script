@@ -1,4 +1,4 @@
-# ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) Automated GitHub Commit Script
+# ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white) Automated GitHub Add, Commit and Push Script
 
 As a developer, it's common to perform repetitive tasks like committing changes to your GitHub repository. This script helps automate the process by simplifying the steps required for committing files. No more typing the same Git commands repeatedly!
 
