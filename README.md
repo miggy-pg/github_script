@@ -20,4 +20,6 @@ chmod +x git_push.sh
 ~/scripts/git_push.sh
 ```
 
+
+
 By using this script, you can save time and effort by automating the process of committing files to your GitHub repository. Happy coding!
