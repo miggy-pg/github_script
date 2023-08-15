@@ -1,4 +1,4 @@
-#Automated GitHub Commit Script
+# Automated GitHub Commit Script
 
 As a developer, it's common to perform repetitive tasks like committing changes to your GitHub repository. This script helps automate the process by simplifying the steps required for committing files. No more typing the same Git commands repeatedly!
 
