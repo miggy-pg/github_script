@@ -4,7 +4,7 @@ As a developer, it's common to perform repetitive tasks like committing changes 
 
 ## Usage
 
-1. Copy the script below and place it inside a folder. For example, let's place it in: /home/miggy-pg/scripts
+1. Copy the script file and place it inside a folder. For example, let's place it in: /home/miggy-pg/scripts
 
 2. To use the script, you need to allow read and write permissions for the file. To do this, navigate to the directory where you have placed the script and use the `chmod` command. Replace `<file_name.sh>` with the actual name of your script:
 
