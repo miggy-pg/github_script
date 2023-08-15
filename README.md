@@ -12,6 +12,7 @@ As a developer, it's common to perform repetitive tasks like committing changes 
 chmod +x <file_name.sh>
 For instance:
 chmod +x git_push.sh
+```
 
 3. Now that you've set the permissions, you can use the bash script from your current working directory. Open your terminal and type: ~/scripts/git_push.sh
 
