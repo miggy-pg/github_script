@@ -9,13 +9,15 @@ As a developer, it's common to perform repetitive tasks like committing changes 
 2. To use the script, you need to allow read and write permissions for the file. To do this, navigate to the directory where you have placed the script and use the `chmod` command. Replace `<file_name.sh>` with the actual name of your script:
 
 ```bash
-      chmod +x <file_name.sh>
+chmod +x <file_name.sh>
 
-      For instance:
-          chmod +x git_push.sh
+For instance:
+chmod +x git_push.sh
 ```
 
 3. Now that you've set the permissions, you can use the bash script from your current working directory. Open your terminal and type:
-``` ~/scripts/git_push.sh ```
+``` bash
+~/scripts/git_push.sh
+```
 
 By using this script, you can save time and effort by automating the process of committing files to your GitHub repository. Happy coding!
